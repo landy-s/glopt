@@ -1,0 +1,15 @@
+* {
+    font-family: 'Museo Sans Cyrl', sans-serif;
+}
+
+@import 'libs/bootstrap-reboot.min';
+@import 'libs/fonts';
+
+
+.container {
+    position: relative;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+@import 'blocks/header';
